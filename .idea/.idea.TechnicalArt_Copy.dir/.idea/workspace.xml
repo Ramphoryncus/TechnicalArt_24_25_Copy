@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc5d0a26-514c-4bd6-a05c-4acd8ed1a14f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Dynamic/Blueprints/ABP_Charger.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Dynamic/Blueprints/ABP_Charger.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Dynamic/Blueprints/BP_BallLightning.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Dynamic/Blueprints/BP_BallLightning.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Dynamic/Blueprints/BP_BuzzStack.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Dynamic/Blueprints/BP_BuzzStack.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Dynamic/Blueprints/BP_Charger.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Dynamic/Blueprints/BP_Charger.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Dynamic/Blueprints/BP_Checkpoint.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Dynamic/Blueprints/BP_Checkpoint.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Dynamic/Blueprints/BP_GyroscopicPortal.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Dynamic/Blueprints/BP_GyroscopicPortal.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Dynamic/Blueprints/BP_RotatorTunnel.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Dynamic/Blueprints/BP_RotatorTunnel.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Dynamic/Blueprints/ChargerGameMode.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Dynamic/Input/IMC_Default.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Dynamic/Input/IMC_Default.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Dynamic/Maps/Alive_Charger_Origin.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Dynamic/Maps/Alive_Charger_Origin.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Dynamic/Maps/ThirdPersonMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Dynamic/Maps/ThirdPersonMap.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Dynamic/Niagara/M_Lightning.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Dynamic/Niagara/M_Lightning.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Static/3DAliveAssets/GyroscopicPortal_2/Alive_GyroscopicSphere_22102024_Alive_GP_Sphere.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Static/3DAliveAssets/GyroscopicPortal_2/Alive_GyroscopicSphere_22102024_Alive_GP_Sphere.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Static/3DAliveAssets/GyroscopicPortal_2/Alive_GyroscopicSphere_22102024_Alive_InnerRing.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Static/3DAliveAssets/GyroscopicPortal_2/Alive_GyroscopicSphere_22102024_Alive_InnerRing.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Static/3DAliveAssets/GyroscopicPortal_2/Alive_GyroscopicSphere_22102024_Alive_MidlleRing.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Static/3DAliveAssets/GyroscopicPortal_2/Alive_GyroscopicSphere_22102024_Alive_MidlleRing.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Static/3DAliveAssets/GyroscopicPortal_2/Alive_GyroscopicSphere_22102024_Alive_OuterRing.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Static/3DAliveAssets/GyroscopicPortal_2/Alive_GyroscopicSphere_22102024_Alive_OuterRing.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Static/Animations/RetargetedAnimations/IdleJogThrowMontage.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Static/Animations/RetargetedAnimations/IdleJogThrowMontage.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Static/Animations/RetargetedAnimations/SprintThrowMontage.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Static/Animations/RetargetedAnimations/SprintThrowMontage.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Static/ImportedMixamoCharger/Temp_PlayerCharacter/Alive_Charger_22102024__1_.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Static/ImportedMixamoCharger/Temp_PlayerCharacter/Alive_Charger_22102024__1_.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Static/ImportedMixamoCharger/Temp_PlayerCharacter/Alive_Charger_22102024__1__Skeleton.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Static/ImportedMixamoCharger/Temp_PlayerCharacter/Alive_Charger_22102024__1__Skeleton.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TechnicalArt_Copy.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/TechnicalArt_Copy.uproject" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://C:/Epic Games/UE_5.4/Engine/Source/Runtime/Engine/Classes/GameFramework/PlayerController.h" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="32ZaEfh8isjrxvRkF59xyRaCI0p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "GitMain",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc5d0a26-514c-4bd6-a05c-4acd8ed1a14f" name="Changes" comment="" />
+      <created>1757630438380</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757630438380</updated>
+      <workItem from="1757630443126" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
