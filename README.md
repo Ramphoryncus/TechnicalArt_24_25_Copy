@@ -19,3 +19,7 @@ I textured all of my 3D meshes in Substance Painter, except the activatable pill
 ### ChatGPT 4o
 
 I did seek assistance from Chat-GPT 4o on an ongoing basis to help me troubleshoot any issues that I was having with blueprints and also attempted to code a custom gravity system from scratch in C++ before reverting to the custom gravity system on the dev.epicgames.com page, that did work just not how I wanted it to it may have needed some tweaking 
+
+### Mixamo
+
+I use the Mixamo website to source all of the animations for my player character
