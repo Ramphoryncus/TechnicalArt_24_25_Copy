@@ -16,3 +16,6 @@ I use the Autodesk Maya 3D modelling application to create all of my assets exce
 
 I textured all of my 3D meshes in Substance Painter, except the activatable pillar for which I assigned materials in Unreal Engine 5. Each mesh has a layered material and I utilised masking and polygon fills to speed up the process. I did some hand texturing on the tenderiser and on the gyroscopic portal, in particular the emissive dots on each of the rings.
 
+### ChatGPT 4o
+
+I did seek assistance from chat GPT on an ongoing basis to help me troubleshoot any issues that I was having with blueprints and also attempted to code a custom gravity system from scratch in C++ before reverting to the custom gravity system on the dev.epicgames.com page, that did work just not how I wanted it to it may have needed some tweaking 
